@@ -1,0 +1,110 @@
+h2 {
+    color: blue;
+    
+      
+}
+
+
+
+body
+
+{
+
+    
+    text-align: center;
+    background-color: white;
+}
+
+a:link {
+    color:fuchsia;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color:blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color:aqua;
+    background-color: chartreuse;
+    text-decoration: overline;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
+
+table {
+    width: 100%;
+    background-color: aqua;
+}
+
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:deepskyblue;
+    width: 100%;
+}
+
+Li {
+  float: left;
+}
+
+Li a {
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+    background-color:black;
+
+}
+
+Li a:active{
+background-color: blue;
+}
+
+.Lesson1 {
+    background-color:antiquewhite;
+    padding: 10px;
+}
+
+.gees {
+    text-align: left;
+}
+
+.hoos {
+    text-decoration:underline;
+}
+
+p1 {
+    font-size: larger;
+
+}
+
+h1 {
+    color:blue;
+}
+
